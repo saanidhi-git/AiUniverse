@@ -1,4 +1,4 @@
-# 🤖 AIVerse - Multi-AI Agent Platform
+# 🤖 AIUniverse - Multi-AI Agent Platform
 
 <div align="center">
 
