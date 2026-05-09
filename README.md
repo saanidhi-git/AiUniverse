@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### _One Window. 6 Perspectives._
+### _One Window. 6 Perspectives.__
 
 [![Python Version](https://img.shields.io/badge/python-3.11.9-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg)](https://streamlit.io)
